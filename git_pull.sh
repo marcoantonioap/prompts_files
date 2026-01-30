@@ -8,6 +8,8 @@ REPOS=(
     oneetl
     ingles
     ideias
+	lugar_mais_perto
+	fiap-pos-grad-data-analyst
     # adicione outros aqui no futuro
 )
 

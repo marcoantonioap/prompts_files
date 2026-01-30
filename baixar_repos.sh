@@ -10,7 +10,9 @@ REPOS=(
     sido,
 	oneetl,
 	ingles,
-	ideias
+	ideias,
+	lugar_mais_perto,
+	fiap-pos-grad-data-analyst
     # adicione outros aqui no futuro
 )
 
